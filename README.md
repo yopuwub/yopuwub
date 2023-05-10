@@ -1,5 +1,8 @@
-### Hi there 👋
-
+## yopuwub
+---
+Contact me : 
+* Discord(yopu#6294)
+* [Dev Server](https://discord.gg/juz4JxYW7H)
 <!--
 **yopuwub/yopuwub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
